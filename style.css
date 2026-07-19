@@ -54,10 +54,10 @@ input.or{
     padding: 10px 10px 5px 5px;
     line-height: inherit;
 }
-a{
+/* a{ */
     /* color:#337ab7;
     opacity: 0.9; */
-}
+/* } */
 img{
     width: 10%;
     height: 10%;
@@ -74,7 +74,7 @@ img{
     margin-right:500px ;
     padding: 15px;
     border-radius: 5px;
-    width: 50px;
+    width: 190px;
 }
 .link{
     color: #1e90ff;
